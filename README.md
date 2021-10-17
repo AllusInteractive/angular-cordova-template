@@ -16,6 +16,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `ng build --prod --aot` to build the angular project. Then to compile the app, run `cordova build` with the correct platform flag. 
 E.g. to build for Android, run `cordova build android`.
 
+## Platforms
+
+* Android - `cordova platform add android`
+* iOS - `cordova platform add ios`
+* Web - `cordova platform add web`
+
 ## Useful Commands
 
 * `cordova platform add` adds the platform of your choice to the project. For example, running `cordova platform add android` adds the Android platform to your project.
